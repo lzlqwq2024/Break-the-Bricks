@@ -1,2 +1,1 @@
-# Break-the-Bricks
-Break the bricks - 打砖块小游戏
+> Break the bricks - 打砖块小游戏
